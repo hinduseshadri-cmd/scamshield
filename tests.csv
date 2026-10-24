@@ -1,0 +1,31 @@
+message,expected
+"URGENT! Your electricity connection will be disconnected tonight. Call 9876543210 immediately.",SCAM
+"Congratulations! You won a prize. Click this link to claim your reward.",SCAM
+"Your bank account will be blocked today. Verify your details immediately.",SCAM
+"Your package could not be delivered. Pay ₹50 using this link.",SCAM
+"Congratulations! You have won a free mobile phone. Send your details now.",SCAM
+"Your KYC has expired. Click the link to update it immediately.",SCAM
+"Your SIM card will be blocked within 24 hours. Call customer care now.",SCAM
+"You have received a cashback reward. Click the link to claim it.",SCAM
+"Your electricity bill is overdue. Pay immediately using this link.",SCAM
+"Your account has suspicious activity. Verify your password now.",SCAM
+"Your OTP for login is 482910. Do not share it with anyone.",SAFE
+"Your college timetable has been updated. Please check the student portal.",SAFE
+"Reminder: Your library book is due tomorrow.",SAFE
+"Your food delivery order has been confirmed.",SAFE
+"Your monthly bank statement is now available in your official banking app.",SAFE
+"Your exam results are available on the college portal.",SAFE
+"Your appointment is confirmed for tomorrow at 10 AM.",SAFE
+"Your electricity bill is available in your official electricity account.",SAFE
+"Your flight booking has been confirmed.",SAFE
+"Your password was changed successfully.",SAFE
+"Your account needs verification. Please check the official website.",SUSPICIOUS
+"You have won a reward. Visit the website to see if you are eligible.",SUSPICIOUS
+"Your delivery is delayed. Contact support for more information.",SUSPICIOUS
+"Your bank account requires an update. Please contact customer support.",SUSPICIOUS
+"Your mobile service may be suspended. Check your account for details.",SUSPICIOUS
+"Your electricity bill is due tomorrow. Please pay through the official electricity board website.",SAFE
+"Congratulations! You have been selected for a cash reward. Pay a small processing fee to receive it.",SCAM
+"Your bank account requires an update. Please contact customer support to verify your details.",SUSPICIOUS
+"Your OTP for your recent transaction is 583921. Never share this OTP with anyone.",SAFE
+"Your parcel could not be delivered. Click the link to reschedule delivery and confirm your details.",SCAM

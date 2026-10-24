@@ -1,0 +1,32 @@
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# API keys, passwords, and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+*.pem
+*.key
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated files (ignore only if they contain private or unnecessary data)
